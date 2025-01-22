@@ -1,6 +1,8 @@
 # Hello
 ### sub heading
 
+Here is a formula $f(x) = x^2$ for you
+
 Lets do a search
 [Google](https://www.google.com)
 
