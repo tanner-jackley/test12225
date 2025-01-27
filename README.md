@@ -1,6 +1,14 @@
 # Hello
 ### sub heading
 
+This is a truth table
+| P | Q | P and Q |
+| --- | --- | ---: |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F | 
+
 Here is a formula $f(x) = x^2$ for you
 
 Lets do a search
