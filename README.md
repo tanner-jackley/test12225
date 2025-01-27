@@ -1,6 +1,10 @@
 # Hello
 ### sub heading
 
+- [ ] item 1 
+- [x] item 2 (it’s done!)
+- [ ] item 3
+
 This is a truth table
 | P | Q | P and Q |
 | --- | --- | ---: |
